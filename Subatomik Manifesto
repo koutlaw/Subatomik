@@ -1,0 +1,143 @@
+# Feral Stack v0.1
+**Bitcoin Treasury + Analog Resistance for Small Business**
+
+*An open-source playbook by Subatomik Books*  
+**License:** MIT / CC0 — Fork it. Break it. Improve it. No permission needed.  
+**Version:** 0.1 (May 2026)  
+**Project:** Subatomik Books — Nyack, NY
+
+## 1. Philosophy & Manifesto
+
+We are not “Bitcoin-friendly.”  
+We are **Bitcoin-native**.
+
+In the era of **classic late-cycle degeneracy** — gamma-squeezed markets, endless financial engineering, and Big Tech’s war on physical reality — small operators have a simple choice:
+
+- Play the dying game and slowly get absorbed, or  
+- Build a **Feral Stack**: analog-first operations + on-chain conviction + sovereign money production.
+
+### Core Beliefs
+- **Physical goods are ultimate privacy tech.** Books, tools, art, and other tangible items cannot be remotely bricked, deplatformed, or data-harvested like digital products.
+- **Bitcoin is the hardest money ever discovered.** Treating it as your primary treasury asset is not speculation — it is prudent risk management in a world of infinite fiat.
+- **Small business can run its own Micro Micro Strategy.** Stack sats aggressively, produce some via mining, reject middlemen, and preserve real-world value.
+- **Amazon and platform monopolies** are accelerating the shift away from physical media. We counter-attack by preserving analog content, undercutting where possible, and acquiring physical inventory they de-emphasize.
+- **Transparency is marketing.** On-chain proof beats corporate slogans.
+- The goal is not just survival. It is **sovereignty + consciousness expansion**.
+
+**We mine one. We sell the other. We keep the soul intact.**
+
+The future is **analog content, on chain**.
+
+---
+
+## 2. Bitcoin Treasury Policy (Template)
+
+**Objective:** Maximize **BTC per ownership unit** over the long term while maintaining operational viability.
+
+### Rules
+- Convert **90%+ of net profits** from all sales into BTC and move to cold storage within 72 hours.
+- 100% of mining revenue (every sat) goes directly into the treasury.
+- Maintain a minimal operational buffer (stablecoins or cash) — target 1–3 months of essential expenses only.
+- Primary metric: **BTC holdings growth**, not fiat “profit”.
+- Quarterly public transparency update (wallet addresses or watch-only dashboard recommended).
+
+### Implementation Steps
+1. Set up a multisig wallet (2-of-3 or 3-of-5 recommended).
+2. Use Sparrow Wallet, Blockstream Jade, or similar air-gapped tools.
+3. Automate conversions where practical via Lightning and simple scripts.
+4. Optional but powerful: Public treasury dashboard for trust and marketing.
+
+---
+
+## 3. Mining Section (Garage Scale)
+
+Start small. Stay feral. Scale only when treasury allows.
+
+- **Sweet spot:** 1–10 modern ASICs (S21 class or equivalent).
+- Focus on cheap/renewable power and **heat recapture** (warehouse heating, water heating, small greenhouse).
+- Treat miners as both revenue source **and signaling device** — livestream hash rate, tie special drops to mining milestones.
+- Example (Subatomik current setup): 5 miners ≈ 1.1 PH/s → $300–$1,000+ net monthly (highly dependent on electricity cost and BTC price).
+
+**Rule of Thumb:** If your all-in electricity cost is under $0.08/kWh and you have a place for the heat, you’re probably winning.
+
+**Next-level ideas:**
+- Sell “sponsored by Subatomik miners” merch
+- Heat recapture projects as content
+- Difficulty-adjusted profitability tracking
+
+---
+
+## 4. Payments & Operations
+
+- **Preferred:** Bitcoin + Lightning only (or heavy preference).
+- No Visa/Mastercard if possible. No custodial intermediaries.
+- No-account, no-tracking shopping model.
+- Offer offline/mail-in sats options for maximum privacy.
+- Lightning invoices + on-chain fallbacks.
+- Print-and-pay QR codes for in-person or mailed orders.
+
+**Goal:** Every transaction reinforces the parallel economy.
+
+---
+
+## 5. Guerrilla Commerce Tactics (Amazon Counter-Attack)
+
+- Aggressively price key physical titles below Amazon where margins allow.
+- Monitor and acquire high-quality physical overstock as Amazon pushes digital.
+- Create inventory arbitrage loops: sats → physical inventory → more sats.
+- Emphasize “physical media preservation” in all messaging.
+- Position as the analog resistance layer while others go full digital.
+
+---
+
+## 6. Community & DAO Layer (Optional)
+
+- Issue a simple governance token (optional).
+- Use soulbound/reputation tokens for loyal patrons.
+- Run transparent votes on major drops, treasury allocation, or new curation directions.
+- Keep it lightweight — don’t let governance slow you down.
+
+---
+
+## 7. Marketing & Narrative
+
+**Taglines:**
+- “Analog Content, On Chain”
+- “We mine one. We sell the other.”
+- “Physical books as resistance tech. Bitcoin as money.”
+
+**Tactics:**
+- Miner livestreams / transparency dashboards
+- Feral press releases
+- Community drops tied to hashrate or treasury milestones
+- Position as the open-source playbook for other small businesses
+
+---
+
+## 8. Risk Management & Legal Notes
+
+- Volatility is real — keep a small stablecoin buffer.
+- Electricity costs and zoning are your biggest operational risks.
+- Stay small and agile to remain under the radar.
+- Document everything. Transparency protects you.
+- This is not financial or legal advice — DYOR and adapt.
+
+---
+
+## Appendix: Tools & Resources
+
+- **Code:** Radicle (primary), Codeberg, self-hosted Forgejo
+- **Wallets:** Sparrow, Jade, MuSig
+- **Mining:** Braiins OS, public dashboards
+- **Transparency:** Blockstream, Mempool.space
+- **Communication:** Simple websites, X, niche forums, Telegram
+
+---
+
+**Contribute**  
+Fork this playbook. Run your own Feral Stack. Share what works.  
+The parallel economy grows one sovereign small business at a time.
+
+**Subatomik Books** — Nyack, NY  
+May 2026  
+Built in the dumpster. For the weirdos.
